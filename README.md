@@ -2,12 +2,6 @@
 <h3 align="center">A passionate IT Manager & DevSecOps Engineer</h3>
 
 <p align="center">
-  <a href="https://twitter.com/OmriYahav">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
-  </a>
-</p>
-
-<p align="center">
 I'm currently expanding my skillset by learning Python. 🐍 </br>
 I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌</br>
 I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
@@ -23,7 +17,7 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
 <h2 align="center">Connect with me :</h2>
 <p align="center">
 <a href="https://twitter.com/OmriYahav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omriyahav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omri-yahav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omri-yahav" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omri-yahav-58b32951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omri-yahav" height="30" width="40" /></a>
 </p>
 
 <br/>

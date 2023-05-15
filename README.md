@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Omri Yahav</h1>
 <h3 align="center">A passionate IT Manager & DevSecOps Engineer</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omriyahav" alt="omriyahav" /></a> </p>
-
 <p align="center">
   <a href="https://twitter.com/omriyahav">
     <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
   </a>
 </p>
 
+<p align="center">
 I'm currently expanding my skillset by learning Python. 🐍 </br>
-I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌
-</br>
+I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌</br>
 I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
-- 🕵️‍♀️ &nbsp; I'm interested in the DevOps area, and I love learning about infrastructure 🤖
-
-- 🌱 I’m currently learning **DevSecOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/OmriYahav](https://github.com/OmriYahav)
-
-- 💬 Ask me about **Python , Bash , DevOps**
-
-- 📫 How to reach me **Omriyx@gmail.com**
+</p>
+<p align="center">
+ 🕵️‍♀️ I'm interested in the DevOps area, and I love learning about infrastructure 🤖</br>
+ 🏫I’m currently learning DevSecOps</br>
+ 👨‍💻 All of my projects are available at https://github.com/OmriYahav</br>
+ 💬 Ask me about Python , Bash , DevOps </br>
+ 📫 How to reach me Omriyx@gmail.com
+</p>
 
 <h2 align="center">Connect with me :</h2>
 <p align="center">
@@ -78,6 +75,6 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
 
 
 ##
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/omriyahav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omriyahav" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omriyahav&show_icons=true&locale=en&layout=compact" alt="omriyahav" /></p>
+<h3 align="center">Support:</h3>
+<p align="center"><a align="center" href="https://www.buymeacoffee.com/omriyahav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omriyahav" /></a></p><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omriyahav&show_icons=true&locale=en&layout=compact" alt="omriyahav" /></p>

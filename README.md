@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Omri Yahav</h1>
 <h3 align="center">A passionate IT Manager & DevSecOps Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omriyahav" alt="omriyahav" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omriyahav" alt="omriyahav" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omriyahav" target="blank"><img src="https://img.shields.io/twitter/follow/omriyahav?logo=twitter&style=for-the-badge" alt="omriyahav" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/omriyahav">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
+  </a>
+</p>
 
 I'm currently expanding my skillset by learning Python. 🐍 </br>
 I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌

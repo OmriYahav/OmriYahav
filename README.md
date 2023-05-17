@@ -25,7 +25,7 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
 
 
  
- ## My Skill Set  
+ ## My Skill Set:
 <table><tr><td valign="top" width="33%">
 
 

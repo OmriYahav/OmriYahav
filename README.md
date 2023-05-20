@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Omri Yahav</h1>
-<h3 align="center">A passionate IT Manager & DevSecOps Engineer</h3>
+<h1 align="left">Hi 👋, I'm Omri Yahav</h1>
+<h3 align="left">A passionate IT Manager & DevSecOps Engineer</h3>
 
-<p align="center">
+<p align="left">
 I'm currently expanding my skillset by learning Python. 🐍 </br>
 I'm passionate about technology and constantly strive to improve my skills and knowledge. 👌</br>
 I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
 </p>
-<p align="center">
+<p align="left">
  🕵️‍♀️ I'm interested in the DevOps area, and I love learning about infrastructure 🤖</br>
  🏫I’m currently learning DevSecOps</br>
  👨‍💻 All of my projects are available at https://github.com/OmriYahav</br>
@@ -14,8 +14,8 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
  📫 How to reach me Omriyx@gmail.com
 </p>
 
-<h2 align="center">Connect with me :</h2>
-<p align="center">
+<h2 align="left">Connect with me :</h2>
+<p align="left">
 <a href="https://twitter.com/OmriYahav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omriyahav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omri-yahav-58b32951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omri-yahav" height="30" width="40" /></a>
 </p>

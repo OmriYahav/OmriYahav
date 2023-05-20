@@ -11,7 +11,7 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
  🏫I’m currently learning DevSecOps</br>
  👨‍💻 All of my projects are available at https://github.com/OmriYahav</br>
  💬 Ask me about Python , Bash , DevOps </br>
- 📫 How to reach me Omriyx@gmail.com
+ 📫 How to reach me :  Omriyx@gmail.com
 </p>
 
 <h2 align="left">Connect with me :</h2>

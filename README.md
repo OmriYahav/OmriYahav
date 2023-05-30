@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Omri Yahav</h1>
-<h3 align="left">A passionate IT Manager & DevSecOps Engineer</h3>
+<h3 align="left">A passionate IT Administrator & DevSecOps Engineer</h3>
 
 <p align="left">
 I'm currently expanding my skillset by learning Python. 🐍 </br>

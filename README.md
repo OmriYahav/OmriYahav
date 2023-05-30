@@ -86,5 +86,4 @@ I'm excited to see where my journey as a DevSecOps Engineer takes me. 🚀
 
 ##
 <h3 align="center">Support:</h3>
-<p align="center"><a align="center" href="https://www.buymeacoffee.com/omriyahav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="omriyahav" /></a></p><br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omriyahav&show_icons=true&locale=en&layout=compact" alt="omriyahav" /></p>
